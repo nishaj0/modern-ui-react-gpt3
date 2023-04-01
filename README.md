@@ -1,0 +1,1 @@
+link: https://gpt3-modern-blog.netlify.app/
