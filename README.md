@@ -1,1 +1,2 @@
-link: https://gpt3-modern-blog.netlify.app/
+link: https://genshify.netlify.app/
+
