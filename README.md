@@ -1,3 +1,3 @@
-link: 
-#https://chatgpt3-modern-ui.netlify.app/
+#link: 
+https://chatgpt3-modern-ui.netlify.app/
 
